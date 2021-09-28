@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botsboxadminbot", "Botsboxadminbot\Botsboxadminbot.csproj", "{D25AB1AA-3713-43A9-A91D-7B4CCD3D7759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotsBox.Shared", "BotsBox.Shared\BotsBox.Shared.csproj", "{A559D789-BC1A-43F5-B186-927F93AF264A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D25AB1AA-3713-43A9-A91D-7B4CCD3D7759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25AB1AA-3713-43A9-A91D-7B4CCD3D7759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25AB1AA-3713-43A9-A91D-7B4CCD3D7759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25AB1AA-3713-43A9-A91D-7B4CCD3D7759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A559D789-BC1A-43F5-B186-927F93AF264A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A559D789-BC1A-43F5-B186-927F93AF264A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A559D789-BC1A-43F5-B186-927F93AF264A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A559D789-BC1A-43F5-B186-927F93AF264A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D8F7A4-90E2-4DA1-8108-61D1EB71B14C}
+	EndGlobalSection
+EndGlobal
